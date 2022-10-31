@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Minsung Kim
+- 👋 Hi, I’m @MinsungKim
 - 🌱 I’m currently learning HTML, CSS, Java Script, Python3 and JAVA
 - 📫 How to reach me : kim_minsung@outlook.com , +82 10 84148680 , Seoul, S.korea.
 - 
